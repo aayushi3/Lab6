@@ -103,7 +103,7 @@ public class Colosseum {
      *         <p>
      */
     public static Pokemon buildPokemon() {
-        Pokemon returnPokemon = null;
+        Pokemon returnPokemon = new Pokemon();
         return returnPokemon;
     }
 
